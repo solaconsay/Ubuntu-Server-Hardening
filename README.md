@@ -7,6 +7,8 @@ This repository contains my college project on **Ubuntu Server Hardening**. The 
 This project covers the following aspects of Ubuntu server security:
 
 - **Configuring essential security settings**
+- **Enabling Multi-Factor Authentication**
+- **Setting up password quality per users**
 - **Enabling firewall rules with UFW (Uncomplicated Firewall)**
 - **Setting up and managing Auditd for event logging**
 - **Establishing secure user permissions and access controls**
